@@ -1,7 +1,7 @@
-Java Launcher: C:\Program Files\Java\jdk-21\bin\java.exe
-Arguments: '--inJar, C:\Users\miche\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.21-51.0.33\forge-1.21-51.0.33-injected.jar, --outJar, C:\Users\miche\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.21-51.0.33_mapped_official_1.21\forge-1.21-51.0.33_mapped_official_1.21.jar, --logFile, accesstransform.log, --atFile, C:\Users\miche\Desktop\Coding\Modding\build\_atJar_4\parent_at.cfg'
+Java Launcher: C:\Users\miche\.gradle\jdks\eclipse_adoptium-21-amd64-windows\jdk-21.0.5+11\bin\java.exe
+Arguments: '--inJar, C:\Users\miche\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.21-51.0.33\forge-1.21-51.0.33-injected.jar, --outJar, C:\Users\miche\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.21-51.0.33_mapped_official_1.21\forge-1.21-51.0.33_mapped_official_1.21.jar, --logFile, accesstransform.log, --atFile, C:\Users\miche\Desktop\Coding\ForgeModExample\build\_atJar_4\parent_at.cfg'
 Classpath:
  - C:\Users\miche\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\8.2.0\accesstransformers-8.2.0-fatjar.jar
-Working directory: C:\Users\miche\Desktop\Coding\Modding\build\_atJar_4
+Working directory: C:\Users\miche\Desktop\Coding\ForgeModExample\build\_atJar_4
 Main class: net.minecraftforge.accesstransformer.TransformerProcessor
 ====================================
